@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background: linear-gradient(rgba(0, 0, 0, 0.301),rgba(0, 0, 0, 0.322)),url(./nitfix.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    margin-top: 0;
+    position: relative;
+}
+.main{
+    height: 800px;
+    width: 500px;
+    background-color: rgba(0, 0, 0, 0.705);
+    position: absolute;
+    top: 50px;
+    left: 700px;
+}
+.main1 h1{
+    font-size: 35px;
+    margin-top: 60px;
+    margin-left: 80px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main input{
+    height: 60px;
+    width: 350px;
+    margin-left: 80px;
+    margin-top: 30px;
+    background-color: #131312;
+    border:solid 1px #fff;
+    border-radius: 5px;
+    padding-left: 15px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main button{
+    height: 45px;
+    width: 350px;
+    background-color: #e50914;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    margin-top: 30px;
+    margin-left: 80px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main h4{
+    font-size: 20px;
+    color: rgb(129, 129, 129);
+    margin-left: 50%;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main2 button{
+   margin-top: 0px;
+   height: 45px;
+   width: 350px;
+   background-color: #383938a1;
+   color: #fff;
+   border-radius: 5px;
+   font-size: 15px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.main h3{
+    color: #fff;
+    margin-left:40% ;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.main p{
+    margin-left: 85px;
+    margin-top: 20px;
+    color:#777777;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main a{
+    color: #fff;
+    text-decoration: none;
+}
+.main h5{
+    color:#777777 ;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 85px;
+    margin-top: 15px;        
+}
+.main h5 a{
+    color: rgb(46, 46, 182);
+}
+.img1{
+    height: 100px;
+    width: 200px;
+    margin-left: 15%;
+}
+.nimisha input{
+    height: 20px;
+    width: 20px;
+}
+.nimisha2{
+    color: #fff;
+    float: right;
+    margin-right: 65%;
+    margin-top: 6%;
+
+}
